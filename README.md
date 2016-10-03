@@ -5,4 +5,6 @@ Easy to use meteor 1.4 boilerplate with react
 * cd meteor-react-boilerplate
 * meteor npm install
 * meteor npm install --save react react-dom
+* meteor remove blaze-html-templates
+* meteor add static-html
 * meteor
